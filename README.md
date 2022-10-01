@@ -42,5 +42,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Desktop.svg"  title="Power BI Desktop" alt="Power BI Desktop" width="50" height="50"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Dataflow.svg" title="Data Flow" alt="Data Flow" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Software-as-a-Service.svg" title="SaaS" alt="SaaS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="60"/>
+  <img src="https://github.com/zackhardilo/zackhardilo/blob/main/icons/Git-logo.svg" title="Git" **alt="Git" width="70" height="60"/>
 </div>
