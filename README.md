@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Tools and Languages :
 <div>
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/zackhardilo/zackhardilo/blob/main/icons/Power-BI.svg" title="Power BI" alt="Power BI" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Analysis-Services.svg" title="Azure Analysis Services" alt="Azure Analysis Services" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Powershell.svg" title="PowerShell" alt="PowerShell" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Azure-Data-Explorer-Clusters.svg" title="Azure Data Explorer" alt="Azure Data Explorer" width="50" height="50"/>&nbsp;
@@ -42,5 +42,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Desktop.svg"  title="Power BI Desktop" alt="Power BI Desktop" width="50" height="50"/>&nbsp;
   <img src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Dataflow.svg" title="Data Flow" alt="Data Flow" width="50" height="50"/>&nbsp;
   <img src="http://code.benco.io/icon-collection/azure-icons/Software-as-a-Service.svg" title="SaaS" alt="SaaS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/zackhardilo/zackhardilo/blob/main/icons/Git-logo.svg" title="Git" **alt="Git" width="70" height="60"/>
+  <img src="https://github.com/zackhardilo/zackhardilo/blob/main/icons/Git-logo.svg" title="Git" **alt="Git" width="90" height="70"/>
 </div>
